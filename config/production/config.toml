@@ -1,2 +1,2 @@
 canonifyURLs = false
-baseURL = https://blog-bqv.pages.dev/
+baseURL = "https://blog-bqv.pages.dev/"
