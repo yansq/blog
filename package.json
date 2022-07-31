@@ -67,5 +67,6 @@
   },
   "otherDependencies": {
     "hugo": "0.101.0"
-  }
+  },
+  "__npminstall_done": false
 }
